@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Arun Maurya 👋<br>B.Tech (Computer Science), Final Year<br>Full-Stack Developer | 6-Month Full Stack Training<br>Based in Bareilly, India<br>arunmaurya2604@gmail.com
+Hi, I'm Arun Maurya 👋<br>B.Tech (Computer Science), Final Year<br>Full-Stack Developer | 6-Month Full Stack Training<br>Based in Bareilly, India<br>arunmaurya0048@gmail.com
 
 
 # 💻 Tech Skills:
